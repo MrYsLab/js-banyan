@@ -1,0 +1,42 @@
+{
+  "name": "js-banyan",
+  "version": "0.0.46",
+  "description": "",
+  "main": "lib/banyan_base",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  },
+  "bin": {
+    "jsmonitor": "./bin/jsmonitor",
+    "jsbackplane": "./bin/jsbackplane"
+  },
+  "dependencies": {
+    "argparse": "^1.0.10",
+    "assertion-error": "^1.1.0",
+    "babel-cli": "^6.26.0",
+    "chai": "^4.1.2",
+    "csv2json": "^1.4.2",
+    "install": "^0.10.4",
+    "ip": "^1.1.5",
+    "msgpack-lite": "^0.1.26",
+    "npm": "^5.7.1",
+    "nyc": "^11.4.1",
+    "zeromq": "^4.6.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "Framework",
+    "Application Framework",
+    "Physical Computing",
+    "Distributed Computing"
+  ],
+  "author": "Alan Yorinks <email@MisterYsLab@gmail.com> (http://example.com)",
+  "license": "AGPL-3.0"
+}
