@@ -2,6 +2,8 @@
 
 ## This is a JavaScript compatible version of the [Python Banyan Framework](https://mryslab.github.io/python_banyan/).
 
+### Install with: npm js-banyan -g
+
 Banyan is a lightweight, reactive framework used to create flexible, non-blocking, 
 event driven, asynchronous applications. It was designed primarily to 
 implement physical computing applications for devices such as the 
@@ -156,4 +158,3 @@ catch (err) {
 }
 ```
 
-Install with npm -g js-banyan
