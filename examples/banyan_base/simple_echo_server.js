@@ -18,7 +18,7 @@
  Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
  */
 
-const BanyanBase = require('../../lib/banyan_base.js');
+const BanyanBase = require('js-banyan/lib/banyan_base');
 
 class SimpleEchoServer extends BanyanBase {
 

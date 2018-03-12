@@ -83,7 +83,7 @@ Examples: An echo server and echo client
 The Server
 
 ```$xslt
-const BanyanBase = require('banyan_base.js');
+const BanyanBase = require('js-banyan/lib/banyan_base');
 
 class SimpleEchoServer extends BanyanBase {
 
@@ -110,7 +110,7 @@ catch(err){
 
 The Client
 ```$xslt
-const BanyanBase = require('../../lib/banyan_base.js');
+const BanyanBase = require('js-banyan/lib/banyan_base');
 
 class SimpleEchoClient extends BanyanBase {
 
