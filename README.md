@@ -1,6 +1,6 @@
-#js-banyan
+# js-banyan
 
-##This is a JavaScript compatible version of the [Python Banyan Framework](https://mryslab.github.io/python_banyan/).
+## This is a JavaScript compatible version of the [Python Banyan Framework](https://mryslab.github.io/python_banyan/).
 
 Banyan is a lightweight, reactive framework used to create flexible, non-blocking, 
 event driven, asynchronous applications. It was designed primarily to 
