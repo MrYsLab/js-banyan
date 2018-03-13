@@ -20,6 +20,8 @@ subscribers. The backplane is provided as a command line executable as part of t
 jsbackplane
 ```
 
+__MAKE SURE YOU START THE BACKPLANE BEFORE STARTING ANY COMPONENT (INCLUDE THE MONITOR)__
+
 In addition a monitor command line monitor utility is also provided to monitor all backplane traffic.
 
 ```$xslt

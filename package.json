@@ -1,9 +1,9 @@
 {
   "name": "js-banyan",
   "url": "https://github.com/MrYsLab/js-banyan",
-  "version": "0.0.49",
+  "version": "0.0.50",
   "description": "",
-  "main": "lib/banyan_base",
+  "main": "lib/banyan_base.js",
   "directories": {
     "example": "examples",
     "lib": "lib",
