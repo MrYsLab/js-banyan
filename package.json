@@ -1,9 +1,9 @@
 {
   "name": "js-banyan",
   "url": "https://github.com/MrYsLab/js-banyan",
-  "version": "0.0.50",
+  "version": "0.0.51",
   "description": "",
-  "main": "lib/banyan_base.js",
+  "main": "js-banyan/lib/banyan_base.js",
   "directories": {
     "example": "examples",
     "lib": "lib",
@@ -23,8 +23,7 @@
     "ip": "^1.1.5",
     "msgpack-lite": "^0.1.26",
     "npm": "^5.7.1",
-    "nyc": "^11.4.1",
-    "zeromq": "^4.6.0"
+    "nyc": "^11.4.1"
   },
   "devDependencies": {
     "mocha": "^3.5.3"
