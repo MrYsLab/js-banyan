@@ -1,6 +1,6 @@
 # js-banyan
 
-## UNDER CONSTRUNCTION
+## UNDER CONSTRUCTION
 
 ## This is a JavaScript compatible version of the [Python Banyan Framework](https://mryslab.github.io/python_banyan/).
 
